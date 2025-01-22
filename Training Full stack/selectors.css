@@ -1,0 +1,35 @@
+.sec1{
+    width: 100%;
+    background-color:darkmagenta;
+    height: 300px;
+}
+.sec2{
+    margin-top: 20px;
+    width: 300px;
+    background-color:yellow;
+    height: 500px;
+    margin-left: 60px;
+    float: left;
+}
+.sec3{
+    width: 350px;
+    background-color:blue;
+    height: 500px;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+.sec4{
+    width: 300px;
+    background-color:yellow;
+    height: 500px;
+    margin-left: 750px;
+    margin-top: 20px;
+    
+}
+.sec5{
+    width: 100%;
+    background-color:darkmagenta;
+    height: 300px;
+    margin-top: 20px;
+}

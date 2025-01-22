@@ -1,0 +1,242 @@
+.temp{
+    display: flex;
+    margin-top: 50px;
+}
+.temp1{
+    display: flex;
+    list-style: none;
+}
+.temp1 li{
+    margin-left: 20px;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.temp2{
+    padding-left: 250px;
+}
+.temp3{
+    padding-left: 500px;
+}
+.section{
+    display: flex
+}
+.sec1{
+    width: 200px;
+    height: 600px;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+.sec2{
+    width: 500px;
+    height: 600px;
+    margin-top: 0px;
+    margin-left: 40px;
+}
+.sec3{
+    width: 700px;
+    height: 600px;
+    margin-top: 0px;
+    margin-left: 40px;
+}
+.bar1{
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 10px;
+}
+.bar2{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 10px;
+}
+.bar3{
+    width: 200px;
+    height: 70px;
+    background-color:rgb(95, 100, 160);
+    color: white;
+    font-size: 25px;
+    text-align: center;
+   padding-top: 40px;
+}
+.bar4{
+    width: 200px;
+    height: 70px;
+    background-color:rgb(49, 48, 48);
+    color: white;
+    font-size: 25px;
+    text-align: center;
+   padding-top: 50px;
+}
+.bar5{
+    width: 200px;
+    height: 60px;
+    background-color:yellow;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+   padding-top: 30px;
+}
+.bar6{
+    width: 200px;
+    height: 60px;
+    background-color:green;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+   padding-top: 30px;
+}
+.bar7{
+    width: 200px;
+    height: 60px;
+    background-color:aqua;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+   padding-top: 30px;
+}
+.nav1{
+    width: 500px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 10px;
+}
+.nav2{
+    width: 500px;
+    height: 110px;
+    background-color:rgb(95, 100, 160);
+    color: white;
+    font-size: 25px;
+    text-align: center;
+   padding-top: 50px;
+}
+.nav3{
+    width: 100px;
+    height: 200px;
+    background-color:red;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 190px;
+    float: left;
+}
+.nav4{
+    width: 400px;
+    height: 100px;
+    background-color:rgb(49, 48, 48);
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 50px;
+    margin-left: 100px;
+}
+.nav5{
+    width: 400px;
+    height: 80px;
+    background-color:yellow;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 40px;
+    margin-left: 100px;
+}
+.nav6{
+    width: 250px;
+    height: 80px;
+    background-color:green;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 40px;
+    float: left;
+    margin-left: 0px;
+
+}
+.nav7{
+    width: 150px;
+    height: 80px;
+    background-color: aqua;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 40px;
+    margin-left: 350px;
+}
+.img1{
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 10px;
+    float: left;
+}
+.img2{
+    width: 500px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 200px;
+}
+.img3{
+    width: 700px;
+    height: 150px;
+    background-color:rgb(95, 100, 160);
+    color: white;
+    font-size: 25px;
+    text-align: center;
+   padding-top: 100px;
+}
+.img4{
+    width: 300px;
+    height: 100px;
+    background-color:rgb(49, 48, 48);
+    color: white;
+    font-size: 25px;
+    text-align: center;
+   padding-top: 80px;
+   float: left;
+}
+.img5{
+    width: 200px;
+    height: 50px;
+    background-color:aqua;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+   padding-top: 40px;
+   margin-left: 500px;
+}
+.img6{
+    width: 200px;
+    height: 50px;
+    background-color:green;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+   padding-top: 40px;
+   margin-left: 500px;
+}
+.img7{
+    width: 700px;
+    height: 70px;
+    background-color:yellow;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+   padding-top: 50px;
+}
+

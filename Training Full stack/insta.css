@@ -1,0 +1,111 @@
+*{
+     margin: 0px;
+    padding: 0px;
+    background-repeat: no-repeat; 
+}
+
+
+body{
+    background: linear-gradient(to right,rgb(173, 30, 173),blue,rgba(255, 0, 0, 0.456) );
+}
+
+.vidya{
+    background-color: white;
+    width: 450px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 500px;
+    border: 2px solid rgba(0, 0, 0, 0.333);
+    box-shadow: 20px 10px 20px blue;
+    border-radius: 25px;
+}
+.vidya img{
+    width: 30px;
+    margin-left: 0px;
+}
+.vidya h1{
+    margin-left: 150px;
+    margin-top: 50px;
+    font-family: cursive;
+    color: black;
+
+}
+.input{
+    margin-top: 40px;
+    
+}
+.input input{
+    margin-top: 20px;
+    width: 300px;
+    height: 20px;
+    margin-left: 70px;
+    font-style: italic;
+    border: 1px solid black;
+    border-radius: 3px;
+
+}
+.input2 input{
+    margin-top: 20px;
+    width: 300px;
+    height: 20px;
+    margin-left: 70px;
+    font-style: italic;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+.button{
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.button button{
+    width: 300px;
+    height: 25px;
+    color: white;
+    background-color: rgb(4, 190, 252);
+    border-radius: 3px;
+}
+.or{
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.fb{
+    margin-top: 30px;
+    margin-left: 150px;
+}
+.fb a{
+    text-decoration: none;
+    font-size: 15px;
+    padding-left: 0px;
+    margin-top: -20px;
+}
+.fb img{
+    width: 20px;
+}
+#fp{
+    margin-top: 20px;
+    margin-left: 170px;
+    font-size: 15px;
+}
+#fp a{
+    text-decoration: none;
+} 
+
+
+
+/* .nav ul{
+    display: flex;
+    list-style: none;
+}
+
+.nav ul li{
+    margin-left: 25px;
+}
+
+.nav ul li img{
+    width: 150px;
+    
+}
+
+.bar{
+    margin-top: 70px;
+} */
